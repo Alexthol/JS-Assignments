@@ -12,6 +12,7 @@ console.log(numberOfBottles);
 console.log(line1);
 console.log(line2);
 numberOfBottles -= 5;
+numberOfBottles -= 5;
 console.log(numberOfBottles);
 console.log(line1);
 
