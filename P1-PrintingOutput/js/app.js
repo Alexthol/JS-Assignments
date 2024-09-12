@@ -18,10 +18,12 @@ console.log(sum);
 
 
 
-let hoursInClass = 5;
-let hoursOfSleep = 8;
-console.log(hoursInClass);
-console.log(hoursOfSleep);
+const hoursInClass = 5;
+const hoursOfSleep = 8;
+let total = 0;
 
+console.log(five);
+console.log(eight);
+total = five + eight;
 
 
