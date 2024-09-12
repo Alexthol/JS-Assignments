@@ -19,3 +19,19 @@ console.log(gold);
 
 gold %= 2;
 console.log(gold);
+
+
+let numbersOfStudents = 0;
+
+numbersOfStudents += 1;
+console.log(numbersOfStudents);
+
+numbersOfStudents++;
+console.log(numbersOfStudents);
+
+++numbersOfStudents;
+console.log(numbersOfStudents);
+
+numbersOfStudents--;
+console.log(numbersOfStudents);
+
