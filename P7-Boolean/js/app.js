@@ -7,9 +7,9 @@
 //let isTeenager = (ageOfPerson >= 11 && ageOfPerson <= 17);
 //let isAdult = ageOfPerson >= 18;
 
-//console.log(isChild)
-//console.log(isTeenager)
-//console.log(isAdult)
+console.log(isChild)
+console.log(isTeenager)
+console.log(isAdult)
 
 
 //let playerTouchGround = false;
