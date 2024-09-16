@@ -24,4 +24,10 @@ console.log((Math.PI*4).toFixed(2));
 
 
 
+const make = "Volvo";
+const model = "V60";
+const modelYear = 2018;
+
+console.log(make, model, modelYear);
+
 
