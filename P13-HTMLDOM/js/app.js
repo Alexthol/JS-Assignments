@@ -19,3 +19,13 @@ function multiplyBySelf(numberToMultiply)  {
 
 }
 
+let score
+
+
+}
+
+
+
+
+
+Create a function called updateScore() that changes the "text" to the score
