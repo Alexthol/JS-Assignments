@@ -40,4 +40,70 @@
 
 
 
+//function getRandom()     {
+  //return Math.floor(Math.random() * 6);
+//}
+//console.log(getRandom());
+
+
+/*function convertNumbersToLetters(number) {
+  if (number === 0) {
+    return "A";
+  }
+  else if (number === 1) {
+    return "B";
+  }
+  else if (number === 2) {
+    return "C";
+  }
+  else {
+    return "Ogiltigt";
+  }
+}
+
+console.log(convertNumbersToLetters(0));
+*/
+
+
+function compareNumbers(firstNumber, secondNumber) {
+  if (firstNumber === secondNumber) {
+    return "Both numbers are equal!";
+  }
+  else if (firstNumber > secondNumber) {
+    return "First number is greater!";
+  }
+  else if (firstNumber < secondNumber) {
+    return "Second number is greater!";
+  }
+}
+console.log(compareNumbers(2, 1));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
