@@ -1,8 +1,8 @@
-//function multiplyBySelf(numberToMultiply)  {
-//return numberToMultiply * numberToMultiply;
+function multiplyBySelf(numberToMultiply)  {
+return numberToMultiply * numberToMultiply;
 
-//}
-//console.log(multiplyBySelf(5));
+}
+console.log(multiplyBySelf(5));
 
 //function add(firstNumber, secondNumber) {
  // return firstNumber + secondNumber;
