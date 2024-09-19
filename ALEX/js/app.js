@@ -1,13 +1,32 @@
 const textField0 = document.getElementById("text0");
+const textField1 = document.getElementById("text1");
 
-textField0.innerHTML = showStylizedScore(786);
+let score = 0;
 
-function showScore(inputNumber) {
-  return inputNumber * 100;
+//textField0.innerHTML = showStylizedScore(786);
+//Ger kontenten till HTML och gör det synligt
+
+//function showScore(inputNumber) {
+ // return inputNumber * 100;
+//}
+
+//function showStylizedScore(scoreInput) {
+  //return "Your score is: " + scoreInput * 100
+//}
+
+increaseScoreByOne()
+
+function increaseScoreByOne() {
+ score++;
+ updateScoreText(score);
 }
 
-function showStylizedScore(scoreInput) {
-  return "Your score is: " + scoreInput * 100
-}
+//View
+function updateScoreText(newText) {
+  textField0.innerHTML = newText;
+ }
+ function updateStatusText(newText)  {
+
+ }
 
 
