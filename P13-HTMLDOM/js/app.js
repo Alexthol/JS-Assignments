@@ -4,28 +4,36 @@ textField.innerHTML = multiplyBySelf(4);
 
 const headerText5 = document.getElementById("header5");
 
-headerText5.innerHTML = "THIS IS MA WEBSITE"
+headerText5.innerHTML = "ALEX HEMSIDA"
 headerText5.style.color = "blue"
 
 
 const button0 = document.getElementById("button0");
+.innerHTML
 
 button0.addEventListener("click", () => {
   yourFunctionHere();});
 
 
-function multiplyBySelf(numberToMultiply)  {
+function  {
   return numberToMultiply * numberToMultiply;
-
-}
-
-let score
-
-
 }
 
 
 
 
 
-Create a function called updateScore() that changes the "text" to the score
+
+
+  //}
+
+//let score
+//function increaseBy(inputNumber) {
+//score += inputNumber;
+//}
+
+//unction updateScore() {
+
+
+//}
+
